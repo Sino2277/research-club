@@ -1,0 +1,46 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research Club Central Asia</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #003366; color: white; padding: 20px; text-align: center; }
+    nav { background: #0055a5; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    section { padding: 20px; }
+    footer { background: #003366; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Research Club Central Asia</h1>
+    <p>Empowering students in Central Asia through research and mentorship</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Programs</a>
+    <a href="#">Apply</a>
+    <a href="#">Team</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Welcome!</h2>
+    <p>
+      Research Club Central Asia (RCCA) is a student-driven initiative inspired by Harvard’s SRMP.
+      We aim to connect high school and university students with mentors and opportunities to explore
+      science and research in our region.
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Research Club Central Asia</p>
+  </footer>
+</body>
+</html>
